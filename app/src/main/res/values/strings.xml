@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Mi edad canina</string>
+    <string name="text_anwer">How old are you?</string>
+    <string name="text_age">Age: </string>
+    <string name="text_btn">Calculate</string>
+    <string name="text_result">My canine age is: %d years old</string>
+    <string name="text_msg_error">Enter a value</string>
+</resources>
